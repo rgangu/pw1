@@ -1,10 +1,8 @@
-# FightingWarplanesGame
-IOS game app development
+# PlaneWarOne
+iOS game 
 
-**_authors:_**
-1. Lei Pei
-2. Wayne Wang
-3. Rachel Liu
+**_author_**
+Rohit Gangupantulu 
 
 **_Hero Flight:_**
 
